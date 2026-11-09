@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 1,
+  "id": "krysto.most-wanted",
+  "name": "Most Wanted 2005",
+  "version": "1.0.0",
+  "author": "Krysto",
+  "license": "MIT",
+  "description": "Animated Rockport road with the Most Wanted 2005 car roster, Blacklist and bonus variants. Original stylized illustrations.",
+  "kinds": ["bar-widget"],
+  "entryPoints": {"barWidget": "Panel.qml"},
+  "barWidget": {"displayName": "Most Wanted 2005", "description": "Drive through the car collection", "category": "Utilities", "defaultSection": "left", "allowMultiple": false}
+}
